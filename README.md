@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?pinokiochan=RickDred&layout=donut&theme=nord"/>
- <img style="height: 160px;" src="https://leetcard.jacoblin.cool/Rick_Dred?theme=dark&font=Sarala"/>
+  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinokiochan&layout=donut&theme=nord"/>
+ <img style="height: 160px;" src="https://leetcard.jacoblin.cool/pinokiochan?theme=dark&font=Sarala"/>
 </div>
 
 
