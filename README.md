@@ -8,23 +8,11 @@
 
 <div align="center">
   <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinokiochan&layout=donut&theme=nord"/>
+  <img style="height: 160px;" src="https://leetcard.jacoblin.cool/pinokiochan?theme=dark&font=Sarala"/>
 </div>
 
 
-<div id="badges" align="center">
-  
-  ### Contact Me
- 
-  <a href="mailto: beibarys7ergaliev@gmail.com" target="_new">
-    <img src="https://img.shields.io/badge/Gmail-Elaman-red?logo=Gmail" alt="Gmail"/>
-  </a>
-  
-  <a href="https://leetcode.com/Rick_Dred/" target="_new">
-    <img src="https://img.shields.io/badge/leetcode-Elaman-yellow?logo=LeetCode" alt="LeetCode"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pinokiochan&color=green" alt="Profile views"/>
-  
-</div>
+
 
 
 - 👋 Hi, My name is Beibars
