@@ -11,7 +11,7 @@
 </div>
 
 
-<!-- <div id="badges" align="center">
+<div id="badges" align="center">
   
   ### Contact Me
  
@@ -22,9 +22,9 @@
   <a href="https://leetcode.com/Rick_Dred/" target="_new">
     <img src="https://img.shields.io/badge/leetcode-Elaman-yellow?logo=LeetCode" alt="LeetCode"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RickDred&color=green" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pinokiochan&color=green" alt="Profile views"/>
   
-</div> -->
+</div>
 
 
 - 👋 Hi, My name is Beibars
